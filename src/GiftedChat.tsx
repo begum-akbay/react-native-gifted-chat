@@ -934,4 +934,5 @@ export {
   Time,
   GiftedAvatar,
   utils,
+  QuickReplies,
 }
