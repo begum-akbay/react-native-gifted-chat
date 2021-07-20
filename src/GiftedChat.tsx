@@ -37,6 +37,7 @@ import MessageContainer from './MessageContainer'
 import Send from './Send'
 import Time from './Time'
 import GiftedAvatar from './GiftedAvatar'
+import QuickReplies from './QuickReplies'
 
 import {
   MIN_COMPOSER_HEIGHT,
@@ -934,4 +935,5 @@ export {
   Time,
   GiftedAvatar,
   utils,
+  QuickReplies,
 }
